@@ -6,13 +6,13 @@ body {
 p {
   font-family: 'Montserrat', sans-serif;
   color: #FEF2BF;
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 0;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin:  2%;
   color: #FEF2BF;
 }
